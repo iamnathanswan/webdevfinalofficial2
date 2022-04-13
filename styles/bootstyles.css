@@ -1,0 +1,75 @@
+.navbarpositioning {
+    position:absolute;
+    left: 10%;
+
+}
+
+.navbarhome {
+    left: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24pt;
+    color: black;
+    right: 80px;
+
+}
+
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkblue;
+    position: static;
+    top: 15px;
+    right: 5px;
+    
+}
+
+.tableauplaceholder {
+    size: 50px;
+}
+
+h1 { 
+    font-size: 15pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border: black;
+
+}
+
+div {
+    border-bottom: black;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 12pt;
+    right: 50%;
+}
+
+body {
+    position: relative;
+    right: 10%;
+    left: 10%;
+    bottom: 10%;
+    top: 10%;
+    background-image: url(../images/cool-background.png);
+
+
+
+    
+
+}
+
+footer {
+   position: absolute;
+    
+    right: 10%;
+    left: 10%;
+
+}
+
+a {
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: static;
+
+}
+

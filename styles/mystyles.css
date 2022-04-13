@@ -1,0 +1,107 @@
+
+body {
+    background-image: url(../images/cool-background.png);
+    font: 24pt;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.menuitem {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blue
+}
+
+.listitem {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    right: calc(100%-10px);
+
+
+
+
+}
+
+.navbarsizing {
+    padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  white-space: nowrap;
+
+}
+
+masthead.backgroundpicture2 {
+    background-image: url(../images/family.background.jpeg)
+}
+
+
+
+
+h1 {
+    font-size: 24pt;
+}
+
+.backgroundpicture2 {
+    size: 80px;
+
+}
+
+
+.costarica {
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 5px;
+    width: 100px;
+    left: 25px;
+}
+
+.bigtitle {
+    font-size: 20px;
+    font-family: cursive;
+    color: whitesmoke;
+}
+
+.funnykidpic {
+    border-radius: 60%;
+    width: 150px;
+    border: 2px solid;
+    
+
+}
+
+.linkedinpic {
+    border-radius: 50%;
+    width: 230px;
+    padding: 20px;
+}
+
+p {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(179, 88, 14);
+
+}
+
+.backtotop {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    right: 50%;
+
+}
+
+li {
+    font-size: 12pt;
+    font-style:oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mainheading {
+    color:azure;
+    right: 50%;
+    top: 30%;
+    font-size: 40pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: 25pt;
+}
